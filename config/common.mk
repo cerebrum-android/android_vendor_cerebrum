@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/cerebrum/prebuilt/common/media/PFFprec_600.emd:system/media/PFFprec_600.emd \
     frameworks/native/data/etc/android.software.sip.voip.xml:system/etc/permissions/android.software.sip.voip.xml
     
-PRODUCT_COPY_FILES += vendor/common/prebuilt/common/etc/init.d/10apps2sd:system/etc/init.d/10apps2sd
+PRODUCT_COPY_FILES += vendor/cerebrum/prebuilt/common/etc/init.d/10apps2sd:system/etc/init.d/10apps2sd
 
 PRODUCT_PACKAGES += \
     Camera \
