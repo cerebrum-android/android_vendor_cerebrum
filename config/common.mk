@@ -42,8 +42,6 @@ PRODUCT_PACKAGES += \
     VisualizationWallpapers \
     PhaseBeam
 
-include vendor/google/gapps.mk
-
 PRODUCT_PACKAGE_OVERLAYS += vendor/cerebrum/overlay/dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/cerebrum/overlay/common
 
